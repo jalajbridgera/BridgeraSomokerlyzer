@@ -1,7 +1,7 @@
 
 Pod::Spec.new do |s|
   s.name         = "RNBridgeraSmokerlyzer"
-  s.version      = "1.0.0"
+  s.version      = "1.1.9"
   s.summary      = "RNBridgeraSmokerlyzer"
   s.description  = <<-DESC
                   RNBridgeraSmokerlyzer
