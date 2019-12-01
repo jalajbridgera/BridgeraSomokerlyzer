@@ -1,0 +1,45 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/mc04bridgera/ReactNativeProjects/rose_research/node_modules/react-native-bridgera-smokerlyzer/android/src/main/AndroidManifest.xml:2:1-7:12
+INJECTED from /Users/mc04bridgera/ReactNativeProjects/rose_research/node_modules/react-native-bridgera-smokerlyzer/android/src/main/AndroidManifest.xml:2:1-7:12
+INJECTED from /Users/mc04bridgera/ReactNativeProjects/rose_research/node_modules/react-native-bridgera-smokerlyzer/android/src/main/AndroidManifest.xml:2:1-7:12
+INJECTED from /Users/mc04bridgera/ReactNativeProjects/rose_research/node_modules/react-native-bridgera-smokerlyzer/android/src/main/AndroidManifest.xml:2:1-7:12
+INJECTED from /Users/mc04bridgera/ReactNativeProjects/rose_research/node_modules/react-native-bridgera-smokerlyzer/android/src/main/AndroidManifest.xml:2:1-7:12
+INJECTED from /Users/mc04bridgera/ReactNativeProjects/rose_research/node_modules/react-native-bridgera-smokerlyzer/android/src/main/AndroidManifest.xml:2:1-7:12
+INJECTED from /Users/mc04bridgera/ReactNativeProjects/rose_research/node_modules/react-native-bridgera-smokerlyzer/android/src/main/AndroidManifest.xml:2:1-7:12
+	package
+		ADDED from /Users/mc04bridgera/ReactNativeProjects/rose_research/node_modules/react-native-bridgera-smokerlyzer/android/src/main/AndroidManifest.xml:3:11-37
+		INJECTED from /Users/mc04bridgera/ReactNativeProjects/rose_research/node_modules/react-native-bridgera-smokerlyzer/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/mc04bridgera/ReactNativeProjects/rose_research/node_modules/react-native-bridgera-smokerlyzer/android/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/mc04bridgera/ReactNativeProjects/rose_research/node_modules/react-native-bridgera-smokerlyzer/android/src/main/AndroidManifest.xml
+		ADDED from /Users/mc04bridgera/ReactNativeProjects/rose_research/node_modules/react-native-bridgera-smokerlyzer/android/src/main/AndroidManifest.xml:2:1-7:12
+		INJECTED from /Users/mc04bridgera/ReactNativeProjects/rose_research/node_modules/react-native-bridgera-smokerlyzer/android/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/mc04bridgera/ReactNativeProjects/rose_research/node_modules/react-native-bridgera-smokerlyzer/android/src/main/AndroidManifest.xml
+		ADDED from /Users/mc04bridgera/ReactNativeProjects/rose_research/node_modules/react-native-bridgera-smokerlyzer/android/src/main/AndroidManifest.xml:2:1-7:12
+		INJECTED from /Users/mc04bridgera/ReactNativeProjects/rose_research/node_modules/react-native-bridgera-smokerlyzer/android/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/mc04bridgera/ReactNativeProjects/rose_research/node_modules/react-native-bridgera-smokerlyzer/android/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from /Users/mc04bridgera/ReactNativeProjects/rose_research/node_modules/react-native-bridgera-smokerlyzer/android/src/main/AndroidManifest.xml:5:5-71
+	android:name
+		ADDED from /Users/mc04bridgera/ReactNativeProjects/rose_research/node_modules/react-native-bridgera-smokerlyzer/android/src/main/AndroidManifest.xml:5:22-68
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/mc04bridgera/ReactNativeProjects/rose_research/node_modules/react-native-bridgera-smokerlyzer/android/src/main/AndroidManifest.xml:6:5-75
+	android:name
+		ADDED from /Users/mc04bridgera/ReactNativeProjects/rose_research/node_modules/react-native-bridgera-smokerlyzer/android/src/main/AndroidManifest.xml:6:22-72
+uses-sdk
+INJECTED from /Users/mc04bridgera/ReactNativeProjects/rose_research/node_modules/react-native-bridgera-smokerlyzer/android/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/mc04bridgera/ReactNativeProjects/rose_research/node_modules/react-native-bridgera-smokerlyzer/android/src/main/AndroidManifest.xml
+INJECTED from /Users/mc04bridgera/ReactNativeProjects/rose_research/node_modules/react-native-bridgera-smokerlyzer/android/src/main/AndroidManifest.xml
+INJECTED from /Users/mc04bridgera/ReactNativeProjects/rose_research/node_modules/react-native-bridgera-smokerlyzer/android/src/main/AndroidManifest.xml
+INJECTED from /Users/mc04bridgera/ReactNativeProjects/rose_research/node_modules/react-native-bridgera-smokerlyzer/android/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/mc04bridgera/ReactNativeProjects/rose_research/node_modules/react-native-bridgera-smokerlyzer/android/src/main/AndroidManifest.xml
+		ADDED from /Users/mc04bridgera/ReactNativeProjects/rose_research/node_modules/react-native-bridgera-smokerlyzer/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/mc04bridgera/ReactNativeProjects/rose_research/node_modules/react-native-bridgera-smokerlyzer/android/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/mc04bridgera/ReactNativeProjects/rose_research/node_modules/react-native-bridgera-smokerlyzer/android/src/main/AndroidManifest.xml
+		ADDED from /Users/mc04bridgera/ReactNativeProjects/rose_research/node_modules/react-native-bridgera-smokerlyzer/android/src/main/AndroidManifest.xml
+		INJECTED from /Users/mc04bridgera/ReactNativeProjects/rose_research/node_modules/react-native-bridgera-smokerlyzer/android/src/main/AndroidManifest.xml

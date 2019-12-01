@@ -1,0 +1,47 @@
+{
+  "_from": "react-native-bridgera-smokerlyzer",
+  "_id": "react-native-bridgera-smokerlyzer@1.1.9",
+  "_inBundle": false,
+  "_integrity": "sha512-MNT19TMXStf5QwkquDPYtC+1XxGIsI2Ci+k72Dm0Gi/8A0ti0kabfq6YvqmMAKqwBkOA2Z0vf32XAobLU4FFZw==",
+  "_location": "/react-native-bridgera-smokerlyzer",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-bridgera-smokerlyzer",
+    "name": "react-native-bridgera-smokerlyzer",
+    "escapedName": "react-native-bridgera-smokerlyzer",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-bridgera-smokerlyzer/-/react-native-bridgera-smokerlyzer-1.1.9.tgz",
+  "_shasum": "5309d040620ec65d865949fa8f2a1c5013d8c031",
+  "_spec": "react-native-bridgera-smokerlyzer",
+  "_where": "/Users/mc04bridgera/ReactNativeProjects/rose_research",
+  "author": "",
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "## Getting started",
+  "devDependencies": {
+    "react-native": "0.61.5"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "license": "",
+  "main": "index.js",
+  "name": "react-native-bridgera-smokerlyzer",
+  "peerDependencies": {
+    "react-native": "^0.61.5",
+    "react-native-windows": "0.41.0-rc.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.9"
+}
